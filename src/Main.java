@@ -17,10 +17,12 @@ public class Main {
             System.out.println( b );
         }
 
+        // Задание 3
+        System.out.println(" Задание 3");
 
-
-
-
+         for ( int c = 0; c < 17; c = c+2) {
+             System.out.println(c);
+         }
     }
 
 }
