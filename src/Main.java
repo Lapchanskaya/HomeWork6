@@ -67,6 +67,15 @@ public class Main {
         }
 
 
+        // Задание 9
+        System.out.println(" Задание 9");
+
+            double moneyPercent = 0;
+            double percent = 0.01;
+            for ( int i = 1; i <= 12; i++){
+                moneyPercent = ( moneyPercent + salary) * ( 1 + percent);
+                System.out.println( " Месяц " + i + ", сумма накоплений равна " + moneyPercent);
+        }
 
 
 
