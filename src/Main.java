@@ -48,6 +48,13 @@ public class Main {
         }
 
 
+        // Задание 7
+        System.out.println(" Задание 7");
+
+        for ( int g = 1; g <= 512; g = g*2) {
+            System.out.println(g);
+        }
+
 
 
 
