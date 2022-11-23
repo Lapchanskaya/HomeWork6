@@ -23,6 +23,13 @@ public class Main {
          for ( int c = 0; c < 17; c = c+2) {
              System.out.println(c);
          }
+
+        // Задание 4
+        System.out.println(" Задание 4");
+
+        for ( int d = 10; d >= - 10; d--) {
+            System.out.println(d);
+        }
     }
 
 }
