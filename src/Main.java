@@ -40,6 +40,12 @@ public class Main {
         }
 
 
+        // Задание 6
+        System.out.println(" Задание 6");
+
+        for ( int f = 7; f <= 98; f = f+7) {
+            System.out.println(f);
+        }
 
 
 
